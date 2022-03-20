@@ -21,7 +21,7 @@ node addNode(node head, int value) {
   return head;
 }
 
-#if 1
+#if 0
 int main(int argc, char const *argv[]) {
   node node1, node2;
   node1 = new LinkedList;
